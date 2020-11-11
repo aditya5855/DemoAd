@@ -6,5 +6,7 @@ public class Demo1 {
 		
 		System.out.println("padode");
 		System.out.println("hagode");
+		System.out.println("khauty");
+		
 	}
 }
